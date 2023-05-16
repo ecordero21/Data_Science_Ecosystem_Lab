@@ -1,1 +1,1 @@
-# Data_Science_Ecosystem_Lab
+# Data Science Ecosystem Lab from the IBM certification course
